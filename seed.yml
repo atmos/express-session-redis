@@ -1,0 +1,4 @@
+---
+  name: express-session-redis
+  description: A persistent session store for Express backed by Redis
+  version: 0.1.0
