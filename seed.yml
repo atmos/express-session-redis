@@ -4,4 +4,3 @@
   version: 0.1.0
   dependencies:
     - express >= 0.8.0
-    - redis-client >= 0.8.0
