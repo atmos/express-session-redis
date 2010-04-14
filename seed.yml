@@ -1,7 +1,6 @@
 ---
   name: express-session-redis
   description: A persistent session store for Express backed by Redis
-  version: 0.1.2
+  version: 0.1.3
   dependencies:
     - express >= 0.8.0
-    - redis-client >= 0.2.3
