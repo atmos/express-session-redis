@@ -1,0 +1,21 @@
+{
+  "name": "express-session-redis",
+  "description": "A Redis Session Store for Express.js",
+  "version": "0.2.0",
+  "keywords": [ "redis", "session", "express" ],
+  "dependencies": {"redis-client": ">=0.3.5", "express": ">=0.14.0"},
+
+  "author": "Corey Donohoe <atmos@atmos.org>",
+  "contributors": [
+    { "name": "Corey Donohoe", "web": "http://www.atmos.org" }
+  ],
+  "repositories": [ {
+    "type": "git",
+    "url": "http://github.com/atmos/express-session-redis.git"
+  } ],
+  "directories": [ { "lib": "./lib" } ],
+  "bugs": { "web": "http://github.com/atmos/express-session-redis/issues" },
+  "licenses": [ "MIT" ],
+  "os": [ "linux", "darwin" ],
+  "engines": { "node":  ">0.1.90" }
+}
